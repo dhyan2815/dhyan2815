@@ -1,5 +1,5 @@
 # 💫 Welcome to my GitHub Profile
-🔭 I’m currently working on enhancing web projects' UI and interactivity, building a Notes Taking App, deploying Django projects, and learning React.js through small projects.<br>👯 I’m looking to collaborate on interactive web development projects using Django, JavaScript, or React.js<br>🤝 I’m looking for help with improving project UI design and gaining beginner-friendly project ideas in React.js.<br>🌱 I’m currently learning React.js fundamentals, JavaScript advanced concepts, and deployment techniques for Django projects.<br>💬 Ask me about Django deployment, static file management, and beginner-friendly project ideas in JavaScript or React.js.<br>⚡ Fun fact is I thrive on simplicity and practical solutions, making learning and implementation enjoyable!
+🔭 I’m currently diving into full-stack development with tools like React (Vite), Node.js, Express, MongoDB, and TailwindCSS, building projects that connect frontend flair with backend logic.<br>👯 🌱 I'm all about sharpening my skills, understanding how things work under the hood, and staying curious about what’s coming next in web tech.<br>🚀 Always up for hands-on learning, meaningful projects, and exploring new tools that push the boundaries of what I can build.<br>
 
 
 ## 🌐 Socials:
