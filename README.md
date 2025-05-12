@@ -1,8 +1,7 @@
-# 💫 Welcome to my GitHub Profile
+## 💫 Welcome to my GitHub Profile
 🔭 I’m currently diving into full-stack development with tools like React (Vite), Node.js, Express, MongoDB, and TailwindCSS, building projects that connect frontend flair with backend logic.<br> 🌱 I'm all about sharpening my skills, understanding how things work under the hood, and staying curious about what’s coming next in web tech.<br>🚀 Always up for hands-on learning, meaningful projects, and exploring new tools that push the boundaries of what I can build.<br>
 
 ## 💻 Tech Stack
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -15,8 +14,7 @@
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 🧠 AI / Data Science
-
+## 🧠 AI & Data Science
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat&logo=python&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -30,6 +28,8 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhyan2815&limit=5&theme=dark&combine_all_yearly_contributions=true)
