@@ -1,7 +1,12 @@
-## 💫 Welcome to my GitHub Profile
-🔭 I’m currently diving into full-stack development with tools like React (Vite), Node.js, Express, MongoDB, and TailwindCSS, building projects that connect frontend flair with backend logic.<br> 🌱 I'm all about sharpening my skills, understanding how things work under the hood, and staying curious about what’s coming next in web tech.<br>🚀 Always up for hands-on learning, meaningful projects, and exploring new tools that push the boundaries of what I can build.<br>
 
-## 💻 Tech Stack
+## 🌈 Developer by day, debugger by night – Welcome!
+🔭 I’m deep into full-stack development, using React (Vite), Node.js, Express, MongoDB, and TailwindCSS to bring together smooth frontends and powerful backends.<br> 
+
+🌱 I’m all about learning new things, figuring out how they work, and staying curious about the next cool tech on the horizon.<br>
+
+🚀 Always excited to dive into hands-on projects, push my limits, and try out new tools that open up fresh possibilities.<br>
+
+## 🧰 Dev Toolkit
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -13,8 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-## 🧠 AI & Data Science
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat&logo=python&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -22,19 +25,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhyan2815&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhyan2815&theme=dark&hide_border=false)<br/>
-
-## ✍️ Random Dev Quote
+## Code, Compile, Quote, Repeat 💻🔁💬 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyan2815&layout=compact&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?)
-
-## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhyan2815&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dhyan2815&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
