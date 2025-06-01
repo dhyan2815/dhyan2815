@@ -1,6 +1,5 @@
-
 ## 🌈 Developer by day, debugger by night – Welcome!
-🔭 I’m deep into full-stack development, using React (Vite), Node.js, Express, MongoDB, and TailwindCSS to bring together smooth frontends and powerful backends.<br> 
+🔭 I’m deep into full-stack development, using React (Vite), Node.js, Express, Firebase, MongoDB, and Tailwind to bring together smooth frontends and powerful backends.<br> 
 
 🌱 I’m all about learning new things, figuring out how they work, and staying curious about the next cool tech on the horizon.<br>
 
@@ -16,6 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -27,7 +27,5 @@
 
 ## Code, Compile, Quote, Repeat 💻🔁💬 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+![](https://github-contributor-stats.vercel.app/api?username=dhyan2815&limit=3&theme=dark&combine_all_yearly_contributions=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyan2815&layout=compact&theme=dark)
-
-![](https://github-contributor-stats.vercel.app/api?username=dhyan2815&limit=5&theme=dark&combine_all_yearly_contributions=true)
