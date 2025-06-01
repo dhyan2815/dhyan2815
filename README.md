@@ -1,9 +1,9 @@
-## 🌈 Developer by day, debugger by night – Welcome!
-🔭 I’m deep into full-stack development, using React (Vite), Node.js, Express, Firebase, MongoDB, and Tailwind to bring together smooth frontends and powerful backends.<br> 
+## 🌈 Developer by _day_, debugger by _night_ – Welcome!
+🔭 I’m _deep_ into **full-stack development**, using React, Node, Express, Firebase, MongoDB, and Tailwind to bring together **smooth** _frontends_ and **powerful** _backends_.<br> 
 
-🌱 I’m all about learning new things, figuring out how they work, and staying curious about the next cool tech on the horizon.<br>
+🌱 I’m all about learning **new things**, figuring out how they **work**, and staying _curious_ about the next cool **tech** on the _horizon_.<br>
 
-🚀 Always excited to dive into hands-on projects, push my limits, and try out new tools that open up fresh possibilities.<br>
+🚀 Always _excited_ to dive into **hands-on projects**, _push my limits_, and try out new tools that open up fresh **possibilities**.<br>
 
 ## 🧰 Dev Toolkit
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
