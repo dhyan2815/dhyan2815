@@ -1,9 +1,9 @@
-## 🌈 Developer by _day_, debugger by _night_ – Welcome!
-🔭 I’ve built a solid foundation in full-stack development, using React, Node, Express, Firebase, MongoDB, and Tailwind to craft responsive frontends and scalable backends.<br>
+## 🌈 Howdy, developers!
+Hi, I’m Dhyan Patel, 21-year-old CS under-grad passionate about building impactful, intelligent solutions. I work at the intersection of AI/ML and full-stack development, turning ideas into scalable, real-world applications.
 
-🌱 Also explored AI, machine learning, deep learning, and data science — driven by curiosity and a desire to build tech that can solve real-world problems and make a positive impact.<br>
+I’m skilled in Python, JavaScript, TypeScript, and tools like TensorFlow, PyTorch, Keras, Scikit-learn, React, Node.js, Express, Firebase, MongoDB, and MySQL. My projects include SmokeSignal AI, a wildfire detection system using CNNs, and AuraOne, a smart AI companion integrating LLMs, APIs, and modern UI design.
 
-🚀 Always eager to take on hands-on projects, explore new tools, and connect the dots between web development and intelligent systems.<br>
+I enjoy exploring new tools, experimenting with models, and connecting web development with AI to create solutions that are both innovative and user-friendly. Always curious, always building.
 
 ## 🧰 My Dev Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
