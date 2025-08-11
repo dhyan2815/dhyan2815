@@ -1,9 +1,7 @@
 ## 🌈 Howdy, developers!
 Hi, I’m Dhyan Patel, 21-year-old CS under-grad passionate about building impactful, intelligent solutions. I work at the intersection of AI/ML and full-stack development, turning ideas into scalable, real-world applications.
 
-I’m skilled in Python, JavaScript, TypeScript, and tools like TensorFlow, PyTorch, Keras, Scikit-learn, React, Node.js, Express, Firebase, MongoDB, and MySQL. My projects include SmokeSignal AI, a wildfire detection system using CNNs, and AuraOne, a smart AI companion integrating LLMs, APIs, and modern UI design.
-
-I enjoy exploring new tools, experimenting with models, and connecting web development with AI to create solutions that are both innovative and user-friendly. Always curious, always building.
+I've build projects like SmokeSignal AI, a wildfire detection system using CNNs, and AuraOne, a smart AI companion integrating LLMs, APIs, and modern UI design. I enjoy exploring new tools, experimenting with models, and connecting web development with AI to create solutions that are both innovative and user-friendly
 
 ## 🧰 My Dev Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +27,6 @@ I enjoy exploring new tools, experimenting with models, and connecting web devel
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Code, Compile, Quote, Repeat 💻🔁💬 
