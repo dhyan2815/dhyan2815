@@ -6,8 +6,6 @@ I've build projects like SmokeSignal AI, a wildfire detection system using CNNs,
 ## 🧰 My Dev Toolkit
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,js,react,tailwind,nodejs,express,django,mongodb,firebase,gcp,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,streamlit,&perline=17)](https://skillicons.dev)
 
-
-
 ## Code, Compile, Quote, Repeat 💻🔁💬 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyan2815&layout=compact&theme=dark)
