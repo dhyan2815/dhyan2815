@@ -4,7 +4,7 @@ Hi, I’m **Dhyan Patel**, 21-year-old CS under-grad passionate about building i
 I've build projects like [**SmokeSignal AI**](https://smokkesignal-ai.streamlit.app/), a wildfire detection system using CNNs, and [**AuraOne**](https://aura-one1.web.app/), a smart AI companion integrating LLMs, APIs, and modern UI design and a few more. I enjoy exploring new tools, experimenting with models, and connecting web development with AI to create solutions that are both innovative and user-friendly
 
 ## 🧰 My Dev Toolkit
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,express,react,tailwind,mongodb,firebase,gcp,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,streamlit,jupyter,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,nodejs,express,react,tailwind,mongodb,firebase,gcp,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,streamlit,jupyter,googlecolab,kaggle&perline=9)](https://skillicons.dev)
 
 ## Code, Compile, Quote, Repeat 💻🔁💬 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
