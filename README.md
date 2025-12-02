@@ -8,4 +8,3 @@ I've build projects like [**SmokeSignal AI**](https://smokkesignal-ai.streamlit.
 
 ## Code, Compile, Quote, Repeat 💻🔁💬 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyan2815&layout=compact&theme=dark)
