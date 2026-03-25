@@ -34,25 +34,6 @@
 
   ---
 
-  ### ✨ Featured Projects
-
-  1.  **Legal Research & Contract Analysis Pipeline**
-      -   Engineered an end-to-end system that ingests legal documents, chunks text, and routes them to specialized AI analysis branches for risk scoring,
-  compliance validation, and precedent retrieval.
-      -   *Tech*: AI Agents, n8n, Gemini, Pinecone, Supabase, APIs.
-
-  2.  **LinkedIn Lead Qualification System**
-      -   Built an automated pipeline to monitor LinkedIn posts, scrape comments at scale, and classify prospects using LLM-based intent scoring and
-  engagement tracking.
-      -   *Tech*: AI/LLM, n8n, Gemini, APIs, Google Sheets.
-
-  3.  **SmokeSignal AI - Wildfire Detection**
-      -   Developed a deep learning model trained on 36,000+ satellite images to achieve real-time fire classification, deployed via a Streamlit Cloud
-  interface for live predictions.
-      -   *Tech*: Deep Learning, TensorFlow, Keras, CNN, Streamlit.
-
-  ---
-
   ### 📊 My GitHub Stats
 
   <p align="center">
