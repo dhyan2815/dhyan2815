@@ -1,55 +1,123 @@
-# Hi there, I'm Dhyan Patel 👋
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Dhyan%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Building%20things%20that%20actually%20work&descSize=15&descAlignY=78&descColor=94a3b8" />
+</div>
 
+<!-- CONTACT BADGES -->
 <p align="center">
-  <a href="https://dhyan-patel.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://linkedin.com/in/dhyan2815" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/dhyan-patel/Dhyan-Patel-25a097ddd30d80119650da0e698cd9c0" target="_blank">
+    <img src="https://img.shields.io/badge/Overview-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="mailto:dhyan.work.2815@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- ABOUT -->
+## Who I Am
 
-I'm a final-year Computer Engineering student specializing in **AI automation and intelligent system design**. With hands-on experience building
-production-grade automation pipelines, RAG-based chatbots, and multi-domain AI agents, I excel at turning complex business workflows into reliable,
-scalable, and deployable solutions.
+I take messy real-world problems and turn them into systems that actually solve them.
 
-- 🚀 I build end-to-end AI systems, from webhook intake and data processing to multi-stage LLM analysis and database logging.
-- 🧠 Currently focused on creating robust AI agents with memory, intent recognition, and confidence-based escalation logic.
-- 💡 Passionate about leveraging AI to solve practical problems in domains like Legal Tech, Real Estate, and Sales.
+I've spent the past year building production-grade automation: think RAG pipelines, n8n workflows, LLM-backed agents across legal, real estate, and fintech. Not toy projects. Stuff that runs.
+<br/>
 
----
-
-### 🛠️ My Tech Stack
+<!-- TECH STACK -->
+## What I Work With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
----
+<br/>
 
-### 📊 My GitHub Stats
+## 🛠️ What I've Built
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyan2815&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="Top Languages" />
-</p> -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 SmokeSignal AI</h3>
+      <p><strong>Wildfire Detection System</strong></p>
+      <p>CNN model trained on 36k+ NDVI satellite images. Cut false positives by 72%. Built end-to-end: data ingestion → model → Streamlit deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://smokkesignal-ai.streamlit.app/">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/dhyan2815">📂 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Yield Metrics</h3>
+      <p><strong>Crop Yield Prediction Platform</strong></p>
+      <p>89% accuracy on 5+ years of agricultural data. Helps farmers forecast yield before a single seed is planted.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://yieldmetrics.streamlit.app/">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/dhyan2815/Crop-Yield-Prediction">📂 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ AuraOne</h3>
+      <p><strong>AI Workspace</strong></p>
+      <p>Custom LLM integration with smart automation built into one workspace. React + Node.js + OpenAI under the hood.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/dhyan2815/AuraOne">📂 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📧 Email Campaign Engine</h3>
+      <p><strong>Production Automation @ Fortiv</strong></p>
+      <p>Rebuilt a broken intern-era workflow from scratch. n8n + SendGrid + webhooks. Handles 1k+ daily records with CAN-SPAM compliance built in.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+      </p>
+      <p><em>Internal production system — Fortiv Solutions</em></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.notion.so/dhyan-patel/Dhyan-Patel-25a097ddd30d80119650da0e698cd9c0">
+    <img src="https://img.shields.io/badge/See%20Full%20Project%20Portfolio-1e293b?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </p>
+<br/>
+
+<!-- STATS -->
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>
