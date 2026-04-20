@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Dhyan%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Building%20things%20that%20actually%20work&descSize=15&descAlignY=78&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Dhyan%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20is%20the%20new%20electricity.%20&descSize=15&descAlignY=78&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
@@ -44,14 +44,18 @@ I've spent the past year building production-grade automation: think RAG pipelin
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
-<br/>
-
-<!-- STATS -->
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
 
 <!-- FOOTER -->
 <div align="center">
