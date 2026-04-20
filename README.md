@@ -57,6 +57,19 @@ I've spent the past year building production-grade automation: think RAG pipelin
   </tr>
 </table>
 
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhyan2815&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" width="95%" />
+
+<!-- PROFILE INSIGHTS -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyan2815&theme=github_dark" alt="Profile Summary"/>
+  
+  <br/><br/>
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhyan2815&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhyan2815&theme=github_dark" />
+</div>
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
