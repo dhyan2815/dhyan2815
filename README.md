@@ -46,28 +46,15 @@ I've spent the past year building production-grade automation: think RAG pipelin
 
 ## GitHub Activity
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhyan2815&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" width="95%" />
-
 <table>
   <tr>
+    <!-- Total Contributions | Total Contribution Streak | Longest Streak -->
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </td>
+      <!-- Contribution Graph -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
-
-<!-- PROFILE INSIGHTS -->
-<table>
-  <tr>
-    <td align="center" width="65%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyan2815&theme=github_dark" />
-    </td>
-    <td align="center" width="35%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhyan2815&theme=github_dark" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhyan2815&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"             width="95%" />
     </td>
   </tr>
 </table>
