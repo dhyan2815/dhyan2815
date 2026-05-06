@@ -42,7 +42,7 @@
 <table>
   <tr>
     <!-- Total Contributions | Total Contribution Streak | Longest Streak -->
-    <td align="center" width="50%">
+      <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </td>
       <!-- Contribution Graph -->
