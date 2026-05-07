@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=AI%20Is%20The%20New%20Electricity&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=-%20Andrew%20Ng.%20&descSize=15&descAlignY=78&descColor=94a3b8" />
 </div>
 
-<!-- CONTACT BADGES -->
+<!-- CONTACT BADGE -->
 <p align="center">
   <a href="https://linkedin.com/in/dhyan2815" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
