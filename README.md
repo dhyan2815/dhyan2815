@@ -36,23 +36,3 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
-
-## GitHub Activity
-
-<table>
-  <tr>
-    <!-- Total Contributions | Total Contribution Streak | Longest Streak -->
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=dhyan2815&theme=tokyonight&hide_border=true&background=0d1117&hide_current_streak=true&v=2" alt="GitHub Streak" />
-    </td>
-      <!-- Contribution Graph -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhyan2815&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&v=2" alt="Contribution Graph" width="95%" />
-    </td>
-  </tr>
-</table>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
-</div>
