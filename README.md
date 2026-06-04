@@ -4,7 +4,7 @@
 </div>
 
 <!-- CONTACT BADGES -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/dhyan2815" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -14,7 +14,7 @@
   <a href="mailto:dhyan.work.2815@gmail.com">
     <img src="https://img.shields.io/badge/Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 <br/>
 
