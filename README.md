@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=Good%20code%20is%20its%20own%20best%20documentation.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20Steve%20McConnell&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=Write%20code%20that%20is%20easy%20to%20delete.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20Tef&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
 </div>
 
 <!-- CONTACT BADGES -->
