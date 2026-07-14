@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=Copying%20code%20is%20a%20design%20error.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20David%20Parnas&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=Software%20is%20eating%20the%20world.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20Marc%20Andreessen&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
 </div>
 
 <!-- CONTACT BADGES -->
