@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=Don't%20repeat%20yourself.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20Andy%20Hunt&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&text=We%20must%20design%20for%20change.&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=-%20David%20Parnas&descSize=20&descAlignY=88&descColor=94a3b8&animation=fadeOut" />
 </div>
 
 <!-- CONTACT BADGES -->
