@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=AI%20Is%20The%20New%20Electricity&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=-%20Andrew%20Ng.%20&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=If%20it%20hurts%2C%20do%20it%20more%20often.&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=-%20Martin%20Fowler&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
