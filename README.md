@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Data%20is%20the%20new%20oil.&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=-%20Clive%20Humby&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=AI%20won't%20replace%20humans%2C%20but%20humans%20with%20AI%20will.&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=-%20Karim%20Lakhani&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
