@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Donald%20Knuth&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=The%20best%20code%20is%20no%20code%20at%20all.&fontSize=28&fontColor=ffffff&fontAlignY=55&desc=-%20Jeff%20Atwood&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
