@@ -1,0 +1,26 @@
+name: Daily Profile Quote Update
+
+on:
+  schedule:
+    # 9:00 PM IST corresponds to 15:30 UTC
+    - cron: '30 15 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Quote Update Script
+        shell: pwsh
+        run: |
+          ./scripts/update-profile-quote.ps1 -Force
