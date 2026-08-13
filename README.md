@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Python%20is%20executable%20pseudocode.&fontSize=28&fontColor=ffffff&fontAlignY=55&desc=-%20Bruce%20Eckel&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Alan%20Kay&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
