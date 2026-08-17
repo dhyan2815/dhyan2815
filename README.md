@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Move%20fast.%20Speed%20is%20one%20of%20your%20main%20advantages%20over%20large%20competitors.&fontSize=17&fontColor=ffffff&fontAlignY=55&desc=-%20Sam%20Altman&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Donald%20Knuth&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
