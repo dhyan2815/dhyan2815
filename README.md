@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Ideas%20are%20cheap%20and%20easy%2C%20and%20there%20are%20a%20lot%20of%20them.&fontSize=17&fontColor=ffffff&fontAlignY=55&desc=-%20Sam%20Altman&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Alan%20Kay&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
