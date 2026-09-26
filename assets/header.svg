@@ -5,12 +5,8 @@
 <path d="M12 180 H28 M20 172 V188" stroke="#E61919" stroke-width="2"/>
 <path d="M872 180 H888 M880 172 V188" stroke="#E61919" stroke-width="2"/>
 <rect x="8" y="8" width="884" height="184" fill="none" stroke="#4D4D4D" stroke-width="1"/>
-<clipPath id="avatarClip"><rect x="27" y="37" width="126" height="126"/></clipPath>
-<rect x="25" y="35" width="130" height="130" fill="none" stroke="#E61919" stroke-width="2"/>
-<image href="https://github.com/dhyan2815.png" x="27" y="37" width="126" height="126" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-<line x1="177" y1="30" x2="177" y2="170" stroke="#4D4D4D" stroke-width="1"/>
-<text x="532" y="90" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="42" font-weight="700" letter-spacing="3" fill="#EAEAEA">DHYAN PATEL</text>
-<text x="532" y="125" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="15" letter-spacing="5" fill="#E61919">&lt; ML SYSTEMS &amp; SOFTWARE &gt;</text>
+<text x="450.0" y="95" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="56" font-weight="700" letter-spacing="4" fill="#EAEAEA">DHYAN PATEL</text>
+<text x="450.0" y="130" text-anchor="middle" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="16" letter-spacing="6" fill="#E61919">&lt; ML SYSTEMS &amp; SOFTWARE &gt;</text>
 <line x1="40" y1="155" x2="860" y2="155" stroke="#4D4D4D" stroke-width="1"/>
 <text x="40" y="178" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="13" letter-spacing="2" fill="#4D4D4D">UNIT / D-01</text>
 <text x="860" y="178" text-anchor="end" font-family="JetBrains Mono, IBM Plex Mono, Consolas, monospace" font-size="13" letter-spacing="2" fill="#4D4D4D">REV 2.6 // STATUS: ACTIVE</text>
