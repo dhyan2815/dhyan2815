@@ -4,7 +4,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:000000&height=140&section=header&text=DHYAN%20PATEL&fontSize=60&fontColor=E61919&fontAlignY=45&desc=%3C%20SOFTWARE%20/%20SYSTEMS%20%3E&descSize=16&descColor=EAEAEA&descAlignY=68&animation=fadeIn" width="100%"/>
+```
+██████╗ ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║
+██║  ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║
+██║  ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+< SOFTWARE / SYSTEMS >
+```
 
 </div>
 
@@ -95,7 +104,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&hide_border=true&bg_color=000000&title_color=E61919&icon_color=EAEAEA&text_color=EAEAEA&border_radius=0" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhyan2815&hide_border=true&background=000000&stroke=000000&ring=E61919&fire=E61919&currStreakLabel=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=808080&border_radius=0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dhyan2815&hide_border=true&background=000000&stroke=000000&ring=E61919&fire=E61919&currStreakLabel=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=808080&border_radius=0" height="165"/>
 
 </div>
 
