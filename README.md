@@ -5,12 +5,11 @@
 <div align="center">
 
 ```
-██████╗ ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║
-██║  ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║
-██║  ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
-██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+ ____  _   ___   __ _    _   _   ____   _  _____ _____ _
+|  _ \| | | \ \ / // \  | \ | | |  _ \ / \|_   _| ____| |
+| | | | |_| |\ V // _ \ |  \| | | |_) / _ \ | | |  _| | |
+| |_| |  _  | | |/ ___ \| |\  | |  __/ ___ \| | | |___| |___
+|____/|_| |_| |_/_/   \_\_| \_| |_| /_/   \_\_| |_____|_____|
 
 < SOFTWARE / SYSTEMS >
 ```
@@ -55,7 +54,7 @@
 
 **[ COMMS-LINK ]**
 
-<a href="https://linkedin.com/in/dhyan2815" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=E61919"/></a>
+<a href="https://linkedin.com/in/dhyan2815" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjRTYxOTE5IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="/></a>
 <a href="https://www.notion.so/dhyan-patel/Dhyan-Patel-25a097ddd30d80119650da0e698cd9c0" target="_blank"><img src="https://img.shields.io/badge/OVERVIEW-000000?style=flat-square&logo=notion&logoColor=EAEAEA"/></a>
 <a href="mailto:dhyan.work.2815@gmail.com"><img src="https://img.shields.io/badge/CONTACT-000000?style=flat-square&logo=gmail&logoColor=EAEAEA"/></a>
 
@@ -103,7 +102,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&hide_border=true&bg_color=000000&title_color=E61919&icon_color=EAEAEA&text_color=EAEAEA&border_radius=0" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=dhyan2815&hide_border=true&background=000000&stroke=000000&ring=E61919&fire=E61919&currStreakLabel=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=808080&border_radius=0" height="165"/>
 
 </div>
