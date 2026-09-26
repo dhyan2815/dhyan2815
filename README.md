@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhyan2815&hide_border=true&background=000000&stroke=000000&ring=E61919&fire=E61919&currStreakLabel=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=808080&border_radius=0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dhyan2815&hide_border=true&background=000000&stroke=000000&ring=E61919&fire=E61919&currStreakLabel=EAEAEA&currStreakNum=EAEAEA&sideLabels=EAEAEA&dates=808080&border_radius=0&disable_animations=true" height="165"/>
 
 </div>
 
