@@ -4,7 +4,7 @@
 </div>
 
 <!-- CONTACT BADGES -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://linkedin.com/in/dhyan2815" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -14,7 +14,15 @@
   <a href="mailto:dhyan.work.2815@gmail.com">
     <img src="https://img.shields.io/badge/Contact-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p> -->
+</p>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhyan2815&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=94a3b8&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhyan2815&theme=dark&hide_border=true&background=0d1117&stroke=94a3b8&ring=94a3b8&fire=94a3b8&currStreakLabel=94a3b8" height="165"/>
+</p>
 
 <br/>
 
