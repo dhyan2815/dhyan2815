@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Machines%20take%20me%20by%20surprise%20with%20great%20frequency.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Alan%20Turing&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=23&fontColor=ffffff&fontAlignY=55&desc=-%20W.%20Edwards%20Deming&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
