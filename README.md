@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Intelligence%20is%20the%20ability%20to%20adapt%20to%20change.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Stephen%20Hawking&descSize=15&descAlignY=88&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Any%20application%20that%20can%20be%20written%20in%20JS%2C%20will%20be.&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=-%20Jeff%20Atwood&descSize=15&descAlignY=88&descColor=94a3b8" />
 </div>
 
 <!-- CONTACT BADGES -->
