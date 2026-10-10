@@ -1,32 +1,53 @@
-<h1 align="center">Dhyan Patel</h1>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <b>Applied AI / ML Engineer</b><br>
-  LLM workflows · RAG · agents · Python automation<br>
-  Gandhinagar, India
-</p>
+# Dhyan Patel
 
----
+**Applied AI / ML Engineer**<br>
+LLM workflows · RAG · agents · Python automation<br>
+Gandhinagar, India
 
-## Now
+</td>
+<td width="50%" valign="top">
+
+### Now
 
 - **LinearCard** — digital-wallet loyalty passes, built solo at Linearloop. Google Wallet live.
 - **SmokeSignal AI** — retraining to cut false positives (target: <5% FPR, ≥94% accuracy).
 
-## Projects
+</td>
+</tr>
+</table>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**SmokeSignal AI**](https://github.com/dhyan2815/SmokeSignal-AI) | Wildfire detection from imagery | Python, TensorFlow, OpenCV |
-| [**Yield Metrics**](https://github.com/dhyan2815/Crop-Yield-Prediction) | Crop yield forecasting, 27 years of data | Python, scikit-learn |
-| [**AuraOne**](https://github.com/dhyan2815/AuraOne) | AI workspace for tasks, notes, events | React, TypeScript, Supabase, Gemini |
-| **In-house automations** | Invoicing, job tracking, inventory (private) | n8n, Python, LLMs |
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## Impact
+### Projects
 
-| **36k+** | **~100 ms** | **0.85 R²** | **~70%** |
-| :---: | :---: | :---: | :---: |
-| images, SmokeSignal | inference per image | Yield Metrics | automate manual work, Fortiv Solutions |
+- [**SmokeSignal AI**](https://github.com/dhyan2815/SmokeSignal-AI) — Wildfire detection from imagery<br>
+  <sub>Python, TensorFlow, OpenCV</sub>
+- [**Yield Metrics**](https://github.com/dhyan2815/Crop-Yield-Prediction) — Crop yield forecasting, 27 years of data<br>
+  <sub>Python, scikit-learn</sub>
+- [**AuraOne**](https://github.com/dhyan2815/AuraOne) — AI workspace for tasks, notes, events<br>
+  <sub>React, TypeScript, Supabase, Gemini</sub>
+- **In-house automations** — Invoicing, job tracking, inventory (private)<br>
+  <sub>n8n, Python, LLMs</sub>
+
+</td>
+<td width="40%" valign="top">
+
+### Impact
+
+- **36k+** images, SmokeSignal
+- **~100 ms** inference per image
+- **0.85 R²** Yield Metrics
+- **~70%** automate manual work, Fortiv Solutions
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
