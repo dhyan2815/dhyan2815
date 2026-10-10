@@ -26,7 +26,7 @@
 
 | **36k+** | **~100 ms** | **0.85 R²** | **~70%** |
 | :---: | :---: | :---: | :---: |
-| images, SmokeSignal | inference per image | Yield Metrics | automation success, Fortiv |
+| images, SmokeSignal | inference per image | Yield Metrics | automate manual work, Fortiv Solutions |
 
 ## Stack
 
